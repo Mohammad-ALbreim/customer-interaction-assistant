@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# model weights (downloaded on first run)
+*.pt
+
+# python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# editors / os
+.idea/
+.vscode/
+Thumbs.db
+desktop.ini
